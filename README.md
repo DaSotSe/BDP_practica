@@ -1,4 +1,4 @@
-## Estructura del Proyecto y Localización de Archivos
+## Estructura del Proyecto y Localización de Archivos Practica David Sotelo Seguín
 
 Este repositorio contiene los ejercicios prácticos desarrollados con Apache Spark en Scala. A continuación, se describe la estructura principal del proyecto para facilitar la navegación y revisión del código y sus pruebas.
 
